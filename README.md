@@ -1,1 +1,1 @@
-# blogify api
+blogify api
